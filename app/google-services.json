@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "215459902547",
+    "firebase_url": "https://taleteam-306d9.firebaseio.com",
+    "project_id": "taleteam-306d9",
+    "storage_bucket": "taleteam-306d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215459902547:android:7c2ab7226c8087f4",
+        "android_client_info": {
+          "package_name": "com.p_tee.ptee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215459902547-2qutmrqidq7glpnauaai8vdopd39325j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIkgF6TzJTyP30bFlwDQ7iJ5x18wLjGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215459902547-2qutmrqidq7glpnauaai8vdopd39325j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215459902547-i43fq3ug2kthn2gp9piggn1ts7bkqcdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "p-tee.com.PteeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215459902547:android:3eb86e0388ad8fef",
+        "android_client_info": {
+          "package_name": "com.ptee.pteetrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215459902547-2qutmrqidq7glpnauaai8vdopd39325j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIkgF6TzJTyP30bFlwDQ7iJ5x18wLjGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215459902547-2qutmrqidq7glpnauaai8vdopd39325j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215459902547-i43fq3ug2kthn2gp9piggn1ts7bkqcdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "p-tee.com.PteeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215459902547:android:bbad2cf375a2ab52b202a6",
+        "android_client_info": {
+          "package_name": "com.taleteam.roger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215459902547-2qutmrqidq7glpnauaai8vdopd39325j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIkgF6TzJTyP30bFlwDQ7iJ5x18wLjGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215459902547-2qutmrqidq7glpnauaai8vdopd39325j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215459902547-i43fq3ug2kthn2gp9piggn1ts7bkqcdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "p-tee.com.PteeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
